@@ -1,3 +1,6 @@
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # PowerShell Slack Web Health Monitor
 
 A lightweight PowerShell toolkit for monitoring website availability, response time, and SSL certificate expiry — with Slack alerts via an Incoming Webhook (no external modules required).
